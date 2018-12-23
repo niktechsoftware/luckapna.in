@@ -1,0 +1,15 @@
+[23-Oct-2018 11:57:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 190
+[23-Oct-2018 11:57:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 190
+[23-Oct-2018 13:21:07 Asia/Kolkata] PHP Fatal error:  Call to a member function last_record() on a non-object in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 76
+[23-Oct-2018 13:23:02 Asia/Kolkata] PHP Fatal error:  Call to a member function last_record() on a non-object in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 76
+[23-Oct-2018 13:25:27 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::last_record() in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 76
+[23-Oct-2018 13:28:49 Asia/Kolkata] PHP Fatal error:  Call to undefined method stdClass::last_record() in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 77
+[23-Oct-2018 13:40:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 126
+[23-Oct-2018 14:00:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 194
+[23-Oct-2018 14:01:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 194
+[23-Oct-2018 14:01:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 194
+[24-Oct-2018 00:28:33 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 81
+[24-Oct-2018 00:30:25 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 81
+[24-Oct-2018 00:31:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 133
+[24-Oct-2018 00:35:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::results() in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 80
+[24-Oct-2018 00:48:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/gfincpnt/public_html/anandmay.co.in/application/views/welcome_message.php on line 135
