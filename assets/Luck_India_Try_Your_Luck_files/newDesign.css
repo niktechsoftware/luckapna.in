@@ -1,0 +1,375 @@
+body
+{
+    margin: 0 auto;
+    background-color: #000000; /*color: #fff;*/
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+}
+
+.wrapper
+{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.nav_bar
+{
+    background-color: #dee63a;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#dee63a), to(#bcd037));
+    background: -webkit-linear-gradient(top, #dee63a, #bcd037);
+    background: -moz-linear-gradient(top, #dee63a, #bcd037);
+    background: -ms-linear-gradient(top, #dee63a, #bcd037);
+    background: -o-linear-gradient(top, #dee63a, #bcd037);
+    width: 100%;
+    height: 50px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+}
+
+
+.nav_button
+{
+    color: #141414;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-left: 15px;
+    padding-top: 15px;
+    float: left;
+    padding-right: 50px;
+}
+
+a:link
+{
+    color: #141414;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #141414;
+    text-decoration: underline;
+}
+
+.left_content
+{
+    width: 215px;
+    height: auto;
+    background-color: #191919;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 0px 10px 0px 10px;
+}
+
+.read_more
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+.schedule_top_box
+{
+    background-color: #4f5559;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#4f5559), to(#444145));
+    background: -webkit-linear-gradient(top, #4f5559, #444145);
+    background: -moz-linear-gradient(top, #4f5559, #444145);
+    background: -ms-linear-gradient(top, #4f5559, #444145);
+    background: -o-linear-gradient(top, #4f5559, #444145);
+    width: 250px;
+    height: 50px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: #626469 solid 1px;
+}
+
+
+.right_content
+{
+    width: 240px;
+    margin-left: 10px;
+    background-color: #191919;
+    height: auto;
+}
+
+.schedule_txt1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 20px;
+    color: #bfd238;
+    padding: 13px;
+}
+
+.schedule_txt2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+    margin: 10px;
+}
+
+.footer
+{
+    height: 50px;
+    width: 1000px;
+    background-image: url(../images/footer_img.jpg);
+    color: #FFFFFF;
+}
+
+.footer_txt
+{
+    color: #ffffff;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 15px;
+    float: left;
+    padding-right: 50px;
+    text-decoration:none;
+}
+
+#center_part
+{
+    width: 100%;
+    height: auto;
+    background-color: #191919;
+}
+
+.left_part_internal
+{
+    width: 220px;
+    height: auto;
+}
+
+.username_txt
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+   /* padding-top: 10px; */
+    padding-left: 26px;
+}
+
+.internal_left_box1
+{
+    background-color: #363439;
+    box-shadow: 2px 2px 1px #1a191c;
+    width: 215px;
+    height: auto;
+    margin-left: 10px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.box1
+{
+    background-color: #2d2d2e;
+    width: 200px;
+    height: 35px;
+    margin-left: 5px;
+    box-shadow: 2px 2px 1px #1a191c;
+    border: #282727 solid 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -moz-border-radius: 5px;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#2d2d2e), to(#1c1c1e));
+    background: -webkit-linear-gradient(top, #2d2d2e, #1c1c1e);
+    background: -moz-linear-gradient(top, #2d2d2e, #1c1c1e);
+    background: -ms-linear-gradient(top, #2d2d2e, #1c1c1e);
+    background: -o-linear-gradient(top, #2d2d2e, #1c1c1e);
+}
+
+.schedule_txt_small
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    color: #bfd238;
+    padding-top: 7px;
+    padding-left: 15px;
+}
+
+.default_txt
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #fff;
+    line-height: 20px;
+    padding-top: 7px;
+    padding-left: 15px;
+}
+.trHeight
+{
+    height: 5px;
+}
+.txtContact
+{
+    width: 300px;
+     font-family: Arial, Sans-Serif;
+    font-size: 12px;
+}
+
+.ServiceLinks
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #ffffff;
+    margin: 10px;
+    text-decoration:none;
+}
+.ServiceLinks:hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #ffffff;
+    margin: 10px;
+	text-decoration:underline;
+}
+.ServiceLinksInternal
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #000;
+    margin: 10px;
+    text-decoration:none;
+}
+.ServiceLinksInternal:hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 12px;
+    color: #bfd238;
+    margin: 10px;
+	text-decoration:underline;
+}
+.siteMapPath
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.siteMapPath: Hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+/* Rounded Class */
+.RoundedLogin
+{
+	background: transparent;
+	width: 100%;
+	margin: 0 auto;
+}
+.RoundedLogin .top, .RoundedLogin .bottom
+{
+	display: block;
+	background: transparent;
+	font-size: 1px;
+}
+.RoundedLogin .b1, .RoundedLogin .b2, .RoundedLogin .b3, .RoundedLogin .b4, .RoundedLogin .b1b, .RoundedLogin .b2b, .RoundedLogin .b3b, .RoundedLogin .b4b
+{
+	display: block;
+	overflow: hidden;
+	background: #fff;
+}
+.RoundedLogin .b1, .RoundedLogin .b2, .RoundedLogin .b3, .RoundedLogin .b1b, .RoundedLogin .b2b, .RoundedLogin .b3b
+{
+	height: 1px;
+	background: #fff;
+}
+.RoundedLogin .b2, .RoundedLogin .b3, .RoundedLogin .b4, .RoundedLogin .b4b, .RoundedLogin .b3b, .RoundedLogin .b2b
+{
+	border-left: 1px solid #f1f69f;
+	border-right: 1px solid #f1f69f;
+}
+.RoundedLogin .b1
+{
+	margin: 0 5px;
+	background: #fff;
+}
+.RoundedLogin .b2, .RoundedLogin .b2b
+{
+	margin: 0 3px;
+	border-width: 0 2px;
+}
+.RoundedLogin .b3, .RoundedLogin .b3b
+{
+	margin: 0 2px;
+}
+.RoundedLogin .b4, .RoundedLogin .b4b
+{
+	height: 1px;
+	margin: 0 1px;
+}
+.RoundedLogin .b1b
+{
+	margin: 0 5px;
+	background: #fff;
+}
+.RoundedLogin .boxcontent
+{
+	display: block;
+	background: #fff;
+	border-left: 1px solid #f1f69f;
+	border-right: 1px solid #f1f69f;
+}
+.LeftControlGradiant
+{
+	/*color: #1270ae; 	font: bold medium Georgia; 	background-image: url(../../Images/LightBlueGradient.gif); 	background-repeat: repeat; 	height: 25px;*/
+	background-image: url(../Images/topic_bg.html);
+	background-repeat: repeat-x;
+	height: 25px;
+	font-family: Arial;
+	font-size: 13px;
+	color: #216ba3;
+	font: Alte Haas Grotesk;
+	text-decoration: none;
+}
+.LeftControlGradiantLarge
+{
+	background-image: url(../Images/topic_bg_large.html);
+	background-repeat: repeat-x;
+	height: 25px;
+	font-family: Arial;
+	font-size: 13px;
+	color: #216ba3;
+	font: Alte Haas Grotesk;
+	text-decoration: none;
+}
+.bigHeight
+{
+	height: 50px;
+}
+.NormalText
+{
+	color: #222224; /*#ff3b79;*/
+	font: normal 10pt verdana;
+	font-weight:bold;
+}
+.TitleTextBox
+{
+	font: normal 10pt verdana;
+	color: #11518F;
+	width: 500px;
+}
+.RedText
+{
+	font-size: 13px;
+	color: #ff0000;
+	font-family: Arial,Sans-Serif;
+	font-weight:bold;
+}
